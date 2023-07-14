@@ -27,12 +27,11 @@ Server RP : https://github.com/sam-sam-jo/3355-backend <br />
 |<img width="100" alt="taeyoung" src="https://avatars.githubusercontent.com/u/80306786"> | <img width="100" alt="eunbean" src="https://avatars.githubusercontent.com/u/49816869">| <img width="100" alt="soojeong" src="https://avatars.githubusercontent.com/u/19795060"> | <img width="100" alt="soojeong" src="https://avatars.githubusercontent.com/u/109137596"> |
 | 계정관리 <br> 카드 커스텀 | UI/UX <br> 프론트 구조 설계 <br> 커뮤니티 | 바코드 결제 시스템 <br> 결제 및 포인트 내역 서비스 <br> 알림 서비스 | 바코드 생성 시스템 <br> 카드 서비스 <br> 알림 서비스
 
-
 # 4️⃣테이블구조
-![ERD 캡쳐](image.png)
+<img src="https://github.com/sam-sam-jo/.github/assets/49816869/feff3c64-10c1-410b-aa4b-9d51e0d87cc1" width="70%" />
 
 # 5️⃣시스템구조
-![서비스 흐름도](%EC%82%BC%EC%82%BC%EC%98%A4%EC%98%A4_%EB%B0%9C%ED%91%9C%EC%9A%A9_PPT-010.png)
+<img src="https://github.com/sam-sam-jo/.github/assets/49816869/0259952b-404b-4420-bca5-5f164696d2af" width="70%" />
 
 # 6️⃣프로그램화면
 ### 1) 로그인, 충전 알림 화면
@@ -64,7 +63,7 @@ Server RP : https://github.com/sam-sam-jo/3355-backend <br />
 <video src="05_%EC%B9%B4%EB%93%9C%EC%BB%A4%EC%8A%A4%ED%85%80%20%EC%B9%B4%EB%93%9C%EB%92%A4%EC%A7%91%EA%B8%B0.mp4" controls title="Title" width="30%" ></video>
 
 ### 10) 비밀번호 찾기 기능
-<img src="image-1.png" width="70%"/>
+<img src="https://github.com/sam-sam-jo/.github/assets/49816869/f8890251-5560-4318-9311-f58e0ce5b170" width="70%"/>
 
 ### 11) 커뮤니티 기능
 <video src="%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%EA%B8%B0%EB%8A%A52%20(1).mp4" controls title="Title" width="40%" ></video>
