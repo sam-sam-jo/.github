@@ -33,6 +33,7 @@ Server RP : https://github.com/sam-sam-jo/3355-backend <br />
 # 5️⃣시스템구조
 <img src="https://github.com/sam-sam-jo/.github/assets/49816869/0259952b-404b-4420-bca5-5f164696d2af" width="70%" />
 
+<!--
 # 6️⃣프로그램화면
 ### 1) 로그인, 충전 알림 화면
 
@@ -66,5 +67,5 @@ Server RP : https://github.com/sam-sam-jo/3355-backend <br />
 
 ### 11) 비밀번호 찾기 기능
 <img src="https://github.com/sam-sam-jo/.github/assets/49816869/f8890251-5560-4318-9311-f58e0ce5b170" width="70%"/>
-
+-->
 
