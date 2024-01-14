@@ -33,39 +33,25 @@ Server RP : https://github.com/sam-sam-jo/3355-backend <br />
 # 5️⃣시스템구조
 <img src="https://github.com/sam-sam-jo/.github/assets/49816869/0259952b-404b-4420-bca5-5f164696d2af" width="70%" />
 
-<!--
 # 6️⃣프로그램화면
-### 1) 로그인, 충전 알림 화면
+### 1) 회원가입 화면
+<img src="https://github.com/sam-sam-jo/.github/assets/49816869/5bd616e7-7200-4542-9d3f-e16fb0cacac7" width="20%" />
+
+### 2) 바코드 인식 및 결제 기능
+<img src="https://github.com/sam-sam-jo/.github/assets/49816869/ef245286-2e65-4715-a671-4583005fe0f3" width="20%" />
+
+### 3) 포인트 결제, 카드내역 필터링
 
 
-### 2) 회원가입 화면
+### 4) 커뮤니티 기능
 
 
-### 3) 결제
+### 5) 마이페이지, 출석체크, 포인트 내역, 알림 전체 읽기
+<img src="https://github.com/sam-sam-jo/.github/assets/49816869/e5c7ed8e-e20d-4e69-907a-6a343e7665be" width="20%" />
 
+### 6) 카드커스텀 카드 뒤집기 기능
+<img src="https://github.com/sam-sam-jo/.github/assets/49816869/66cbeff9-5353-497e-a5d5-d82abc86a1bb" width="20%" />
 
-### 4) 충전, 카드 내역
-
-
-### 5) 결제, 알림 전체 읽기
-
-
-### 6) 포인트 결제, 카드내역 필터링
-
-
-### 7) 커뮤니티 기능
-
-
-### 8) 마이페이지, 출석체크 포인트
-
-
-### 9) 마이페이지, 출석체크, 포인트 내역, 알림 전체 읽기
-
-
-### 10) 카드커스텀 카드 뒤집기 기능
-
-
-### 11) 비밀번호 찾기 기능
+### 7) 비밀번호 찾기 기능
 <img src="https://github.com/sam-sam-jo/.github/assets/49816869/f8890251-5560-4318-9311-f58e0ce5b170" width="70%"/>
--->
 
